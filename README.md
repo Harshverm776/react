@@ -1,4 +1,4 @@
-# React
+# React <font size=1>by Mosh Hamedani</font>
 
 ## What is React
 
